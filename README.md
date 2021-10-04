@@ -1,0 +1,2 @@
+# CloneSpotify
+ESTE É UM CLONE DA PÁGINA INICIAL DO SPOTIFY FEITO EM HTML, CSS E BOOTSTRAP3...O Spotify é um serviço digital que dá acesso instantâneo a milhões de músicas, podcasts, vídeos e outros conteúdos de criadores no mundo todo. As funções básicas são gratuitas, como ouvir músicas, mas você também pode fazer upgrade para o Spotify Premium. ... Montar coleções de músicas e podcasts. E muito mais!
